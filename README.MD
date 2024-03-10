@@ -32,7 +32,7 @@ Performance-focused software developer motivated about technology and a strong b
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 
-  <a href="mailto:yer-retb@gmail.com">
+  <a href="mailto:yerretby@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
