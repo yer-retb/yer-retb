@@ -6,7 +6,7 @@ Performance-focused software developer motivated about technology and a strong b
 
 
 
-- 🔭 I’m currently looking for an internship at an emrging company
+- 🔭 I'm currently looking for an opportunity at an emerging company
 
 - 🌱 I’m currently specializing **web development**
 
