@@ -8,11 +8,11 @@ Performance-focused software developer motivated about technology and a strong b
 
 - 🔭 I'm currently looking for an opportunity at an emerging company
 
-- 🌱 I’m currently specializing **web development**
+- 🌱 I’m currently specializing **software development**
 
 - 📫 How to reach me **yerretby@gmail.com**
 
-- 🔍 interested in C/C++/Typescript/Nestjs/Reactjs/html/css/Javascript.
+- 🔍 interested in C/C++/Typescript/Nextjs/Nestjs/Reactjs/html/css/Javascript.
 
 <h2> My Stats : </h2>
 
